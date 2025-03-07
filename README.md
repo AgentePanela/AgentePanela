@@ -1,5 +1,3 @@
-## <div align="center">👋 Hi there, welcome to my `Github` profile ˚₊‧⁺ </div>
-
 <div align="center"><img src="https://agentepanela.neocities.org/images/text.gif"></img></div>
 
 ## > Working with ⋆ཋྀ ˚₊‧⁺
